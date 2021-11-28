@@ -28,4 +28,5 @@ Shubhanshu
 Kaju
 Kishan
 ```
+[![Deploy to railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Fvddd&plugins=postgresql&envs=ALIVE_NAME%2CAPI_ID%2CAPI_HASH%2CASSISTANT_NAME%2CBOT_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2CGROUP_SUPPORT%2CSESSION_NAME%2CSUDO_USERS%2COWNER_NAME%2CUPDATES_CHANNEL
 
