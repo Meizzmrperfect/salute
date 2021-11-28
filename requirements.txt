@@ -29,5 +29,5 @@ telegraph
 hachoir
 lyricsgenius
 pafy
-youtube_dl
-yt_dlp
+git+https://github.com/Itsunknown-12/yt-dl@master
+git+https://github.com/Itsunknown-12/yt-dl@master
